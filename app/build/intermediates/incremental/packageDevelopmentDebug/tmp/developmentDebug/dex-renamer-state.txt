@@ -1,0 +1,7 @@
+#Wed Feb 20 13:47:53 EST 2019
+base.0=/Users/YizraGhebre/StudioProjects/Brainy-Phonics-Android/app/build/intermediates/transforms/dexMerger/development/debug/0
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=/Users/YizraGhebre/StudioProjects/Brainy-Phonics-Android/app/build/intermediates/transforms/dexMerger/development/debug/1
