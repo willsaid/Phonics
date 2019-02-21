@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/YizraGhebre/StudioProjects/Brainy-Phonics-Android/app/build/intermediates/incremental/mergeProductionReleaseResources/merged.dir/values/values.xml",
+            "outputFile": "/Users/YizraGhebre/StudioProjects/Phonics/app/build/intermediates/incremental/mergeProductionReleaseResources/merged.dir/values/values.xml",
             "map": [
                 {
-                    "source": "/Users/YizraGhebre/StudioProjects/Brainy-Phonics-Android/app/src/main/res/values/dimens.xml",
+                    "source": "/Users/YizraGhebre/StudioProjects/Phonics/app/src/main/res/values/dimens.xml",
                     "from": {
                         "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
                         "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
@@ -65,22 +65,7 @@
                     }
                 },
                 {
-                    "source": "/Users/YizraGhebre/StudioProjects/Brainy-Phonics-Android/app/build/generated/res/resValues/production/release/values/generated.xml",
-                    "from": {
-                        "startLines": "-1",
-                        "startColumns": "-1",
-                        "startOffsets": "-1"
-                    },
-                    "to": {
-                        "startLines": "932",
-                        "startColumns": "4",
-                        "startOffsets": "73988",
-                        "endColumns": "65",
-                        "endOffsets": "74049"
-                    }
-                },
-                {
-                    "source": "/Users/YizraGhebre/StudioProjects/Brainy-Phonics-Android/app/src/main/res/values/colors.xml",
+                    "source": "/Users/YizraGhebre/StudioProjects/Phonics/app/src/main/res/values/colors.xml",
                     "from": {
                         "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
                         "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
@@ -92,23 +77,6 @@
                         "startOffsets": "7205,7254,7293,7341,7394,7436,7481,8061,8471,8517,8564,8615,8654,8698,8744,8789,9948,9997,10042,10223,11079,11717,12585",
                         "endColumns": "48,38,47,52,41,44,53,45,45,46,50,38,43,45,44,46,48,44,45,51,49,49,39",
                         "endOffsets": "7249,7288,7336,7389,7431,7476,7530,8102,8512,8559,8610,8649,8693,8739,8784,8831,9992,10037,10083,10270,11124,11762,12620"
-                    }
-                },
-                {
-                    "source": "/Users/YizraGhebre/StudioProjects/Brainy-Phonics-Android/app/build/generated/fabric/res/production/release/values/com_crashlytics_build_id.xml",
-                    "from": {
-                        "startLines": "8",
-                        "startColumns": "0",
-                        "startOffsets": "303",
-                        "endColumns": "162",
-                        "endOffsets": "465"
-                    },
-                    "to": {
-                        "startLines": "940",
-                        "startColumns": "4",
-                        "startOffsets": "74616",
-                        "endColumns": "164",
-                        "endOffsets": "74776"
                     }
                 },
                 {
@@ -206,7 +174,7 @@
                     }
                 },
                 {
-                    "source": "/Users/YizraGhebre/StudioProjects/Brainy-Phonics-Android/app/src/main/res/values/strings.xml",
+                    "source": "/Users/YizraGhebre/StudioProjects/Phonics/app/src/main/res/values/strings.xml",
                     "from": {
                         "startLines": "-1,-1",
                         "startColumns": "-1,-1",
@@ -237,6 +205,23 @@
                     }
                 },
                 {
+                    "source": "/Users/YizraGhebre/StudioProjects/Phonics/app/build/generated/fabric/res/production/release/values/com_crashlytics_build_id.xml",
+                    "from": {
+                        "startLines": "8",
+                        "startColumns": "0",
+                        "startOffsets": "303",
+                        "endColumns": "162",
+                        "endOffsets": "465"
+                    },
+                    "to": {
+                        "startLines": "940",
+                        "startColumns": "4",
+                        "startOffsets": "74616",
+                        "endColumns": "164",
+                        "endOffsets": "74776"
+                    }
+                },
+                {
                     "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/transitionseverywhere-1.8.0.aar/cc4282d6ea666111dd06d4f4deadca3a/res/values/values.xml",
                     "from": {
                         "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
@@ -249,6 +234,21 @@
                         "startOffsets": "69531,69672,69901,69959,70001,70182,70377,70719,70764,70808,70856",
                         "endColumns": "42,58,57,41,41,47,49,44,43,47,48",
                         "endOffsets": "69569,69726,69954,69996,70038,70225,70422,70759,70803,70851,70900"
+                    }
+                },
+                {
+                    "source": "/Users/YizraGhebre/StudioProjects/Phonics/app/build/generated/res/resValues/production/release/values/generated.xml",
+                    "from": {
+                        "startLines": "-1",
+                        "startColumns": "-1",
+                        "startOffsets": "-1"
+                    },
+                    "to": {
+                        "startLines": "932",
+                        "startColumns": "4",
+                        "startOffsets": "73988",
+                        "endColumns": "65",
+                        "endOffsets": "74049"
                     }
                 },
                 {
@@ -267,7 +267,7 @@
                     }
                 },
                 {
-                    "source": "/Users/YizraGhebre/StudioProjects/Brainy-Phonics-Android/app/src/main/res/values/styles.xml",
+                    "source": "/Users/YizraGhebre/StudioProjects/Phonics/app/src/main/res/values/styles.xml",
                     "from": {
                         "startLines": "-1,-1,-1,-1,-1,-1,-1",
                         "startColumns": "-1,-1,-1,-1,-1,-1,-1",

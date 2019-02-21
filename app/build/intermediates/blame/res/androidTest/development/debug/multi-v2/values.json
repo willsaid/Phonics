@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/YizraGhebre/StudioProjects/Brainy-Phonics-Android/app/build/intermediates/incremental/mergeDevelopmentDebugAndroidTestResources/merged.dir/values/values.xml",
+            "outputFile": "/Users/YizraGhebre/StudioProjects/Phonics/app/build/intermediates/incremental/mergeDevelopmentDebugAndroidTestResources/merged.dir/values/values.xml",
             "map": [
                 {
-                    "source": "/Users/YizraGhebre/StudioProjects/Brainy-Phonics-Android/app/build/generated/res/resValues/androidTest/development/debug/values/generated.xml",
+                    "source": "/Users/YizraGhebre/StudioProjects/Phonics/app/build/generated/res/resValues/androidTest/development/debug/values/generated.xml",
                     "from": {
                         "startLines": "6",
                         "startColumns": "4",
