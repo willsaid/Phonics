@@ -1,4 +1,0 @@
-#Thu Feb 21 01:04:22 EST 2019
-base.0=/Users/YizraGhebre/StudioProjects/Phonics/app/build/intermediates/transforms/dexMerger/development/release/0
-path.0=classes.dex
-renamed.0=classes.dex

@@ -12,7 +12,7 @@
         android:layout_height="match_parent"
         android:background="@drawable/gradient" />
 
-    <com.hearatale.phonics.ui.widget.SquareImageView
+    <com.hearatale.phonic.ui.widget.SquareImageView
         android:padding="@dimen/dp_36"
         android:id="@+id/image_artwork"
         android:layout_width="0dp"

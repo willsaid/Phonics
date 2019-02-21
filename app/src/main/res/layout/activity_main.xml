@@ -29,7 +29,7 @@
             android:orientation="vertical"
             app:layout_constraintDimensionRatio="w,1:1">
 
-            <com.hearatale.phonics.ui.widget.SquareImageView
+            <com.hearatale.phonic.ui.widget.SquareImageView
                 android:id="@+id/image_button_alphabet_letters"
                 android:layout_width="0dp"
                 android:layout_height="0dp"
@@ -54,7 +54,7 @@
             android:layout_weight="1"
             android:orientation="vertical">
 
-            <com.hearatale.phonics.ui.widget.SquareImageView
+            <com.hearatale.phonic.ui.widget.SquareImageView
                 android:id="@+id/image_button_phonics"
                 android:layout_width="0dp"
                 android:layout_height="0dp"

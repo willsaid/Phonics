@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.hearatale.phonics.dev.test">
+    package="com.hearatale.phonic.dev.test">
 
     <uses-sdk android:minSdkVersion="21" android:targetSdkVersion="27" />
 
@@ -9,8 +9,8 @@
     </application>
 
     <instrumentation android:name="android.support.test.runner.AndroidJUnitRunner"
-                     android:targetPackage="com.hearatale.phonics.dev"
+                     android:targetPackage="com.hearatale.phonic.dev"
                      android:handleProfiling="false"
                      android:functionalTest="false"
-                     android:label="Tests for com.hearatale.phonics.dev"/>
+                     android:label="Tests for com.hearatale.phonic.dev"/>
 </manifest>

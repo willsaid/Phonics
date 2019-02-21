@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.hearatale.phonics">
+    package="com.hearatale.phonic">
 
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
     <uses-permission android:name="android.permission.INTERNET" />
 
     <application
-        android:name=".Application"
+        android:name="com.hearatale.phonic.Application"
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
@@ -16,7 +16,7 @@
         android:theme="@style/AppTheme">
 
         <activity
-            android:name=".ui.splash.SplashActivity"
+            android:name="com.hearatale.phonic.ui.splash.SplashActivity"
             android:screenOrientation="landscape">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -26,57 +26,57 @@
         </activity>
 
         <activity
-            android:name=".ui.main.MainActivity"
+            android:name="com.hearatale.phonic.ui.main.MainActivity"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:screenOrientation="landscape" />
 
         <activity
-            android:name=".ui.simple_alphabet.SimpleAlphabetActivity"
+            android:name="com.hearatale.phonic.ui.simple_alphabet.SimpleAlphabetActivity"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:screenOrientation="landscape" />
 
         <activity
-            android:name=".ui.letter.LetterActivity"
+            android:name="com.hearatale.phonic.ui.letter.LetterActivity"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:screenOrientation="landscape" />
 
         <activity
-            android:name=".ui.quiz.QuizActivity"
+            android:name="com.hearatale.phonic.ui.quiz.QuizActivity"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:screenOrientation="landscape" />
 
         <activity
-            android:name=".ui.idiom.IdiomActivity"
+            android:name="com.hearatale.phonic.ui.idiom.IdiomActivity"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:screenOrientation="landscape" />
 
         <activity
-            android:name=".ui.quiz_puzzle.QuizPuzzleActivity"
+            android:name="com.hearatale.phonic.ui.quiz_puzzle.QuizPuzzleActivity"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:screenOrientation="landscape" />
 
         <activity
-            android:name=".ui.quiz_sight_words.QuizSightWordsActivity"
+            android:name="com.hearatale.phonic.ui.quiz_sight_words.QuizSightWordsActivity"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:screenOrientation="landscape" />
 
         <activity
-            android:name=".ui.sight_word.SightWordActivity"
+            android:name="com.hearatale.phonic.ui.sight_word.SightWordActivity"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:screenOrientation="landscape" />
 
         <activity
-            android:name=".ui.sentence.SentenceActivity"
+            android:name="com.hearatale.phonic.ui.sentence.SentenceActivity"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:screenOrientation="landscape" />
 
         <activity
-            android:name=".ui.secret_stuff.SecretStuffActivity"
+            android:name="com.hearatale.phonic.ui.secret_stuff.SecretStuffActivity"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:screenOrientation="landscape" />
 
         <activity
-            android:name=".ui.bank.BankActivity"
+            android:name="com.hearatale.phonic.ui.bank.BankActivity"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:screenOrientation="landscape" />
 

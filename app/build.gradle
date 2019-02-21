@@ -19,7 +19,7 @@ android {
     compileSdkVersion 27
     buildToolsVersion '28.0.2'
     defaultConfig {
-        applicationId "com.hearatale.phonics"
+        applicationId "com.hearatale.phonic"
         minSdkVersion 21
         targetSdkVersion 27
         versionCode 1
@@ -47,14 +47,14 @@ android {
     productFlavors {
         development {
             resValue "string", "app_name", "Phonics"
-            applicationId "com.hearatale.phonics.dev"
+            applicationId "com.hearatale.phonic.dev"
             buildConfigField 'String', 'ISDEVELOPING', '"working"'
             dimension "development"
         }
 
         production {
             resValue "string", "app_name", "Phonics"
-            applicationId "com.hearatale.phonics.production"
+            applicationId "com.hearatale.phonic.production"
             buildConfigField 'String', 'ISDEVELOPING', '"none"'
             dimension "development"
         }
