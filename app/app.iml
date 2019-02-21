@@ -135,6 +135,8 @@
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/build-info" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/check-libraries" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/check-manifest" />
+      <excludeFolder url="file://$MODULE_DIR$/build/intermediates/checkDevelopmentDebugAndroidTestClasspath" />
+      <excludeFolder url="file://$MODULE_DIR$/build/intermediates/checkDevelopmentDebugClasspath" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/checkDevelopmentReleaseClasspath" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/checkProductionDebugClasspath" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/checkProductionReleaseClasspath" />
@@ -149,6 +151,7 @@
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/instant_run_split_apk_resources" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/javac" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/jniLibs" />
+      <excludeFolder url="file://$MODULE_DIR$/build/intermediates/lint_jar" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/manifest-checker" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/merged_assets" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/merged_manifests" />
