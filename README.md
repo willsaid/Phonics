@@ -3,8 +3,10 @@ Brainy Phonics is an educational game for kids. It was commissioned by Augusta U
 
 <img src="/images/HomeScreen.png" width="500px">
 
-<img src="/images/Phonics Letters.png" width="500px">
+<img src="/images/Alphabets.png" width="500px">
 
-<img src="/images/Phonics Sound.png" width="500px">
+<img src="/images/Phonemes.png" width="500px">
 
-<img src="/images/Puzzle Rhyme.png" width="500px">
+<img src="/images/PhonemeScreen.png" width="500px">
+
+<img src="/images/PhonemeQuiz.png" width="500px">
